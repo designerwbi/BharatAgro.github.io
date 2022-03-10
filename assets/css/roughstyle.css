@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&family=Rationale&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Habibi&family=IM+Fell+French+Canon+SC&family=Open+Sans:wght@300&family=Rationale&display=swap');
+.midbar-icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.icon-1{
+    margin: 5px;
+    padding: 10px 20px;
+    color: #255644;
+    border: 2px solid #255644;
+}
+.icon-1{
+    margin: 5px;
+    padding: 10px 20px;
+    border: 2px solid #255644;
+    border-radius: 5px;
+    transition: .2s;
+}
+.icon-1:hover{
+    background: #255644;
+    color: #fff;
+}
+.mid-contact p{
+    color: #255644;
+}
+.logo-bar{
+    padding:5px;
+}
+.main-menu__list  a{
+color: #fff;
+}
+.link a{
+    color: #fff;
+}
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&family=Rationale&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Habibi&family=IM+Fell+French+Canon+SC&family=Open+Sans:wght@300&family=Rationale&display=swap');
+.midbar-icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.icon-1{
+    margin: 5px;
+    padding: 10px 20px;
+    color: #255644;
+    border: 2px solid #255644;
+}
+.icon-1{
+    margin: 5px;
+    padding: 10px 20px;
+    border: 2px solid #255644;
+    border-radius: 5px;
+    transition: .2s;
+}
+.icon-1:hover{
+    background: #255644;
+    color: #fff;
+}
+.mid-contact p{
+    color: #255644;
+}
+.logo-bar{
+    padding:5px;
+}
+.main-menu__list  a{
+color: #fff;
+}
+.link a{
+    color: #fff;
+}
